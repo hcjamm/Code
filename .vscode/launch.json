@@ -6,6 +6,7 @@
     "configurations": [
         {
             "type": "chrome",
+            "runtimeExecutable": "C://Users//Administrator//AppData//Local//CentBrowser//Application//chrome.exe",
             "request": "launch",
             "name": "Launch Chrome against localhost",
             "url": "http://localhost:3000/src/index.html",
